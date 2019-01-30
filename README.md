@@ -2,6 +2,5 @@
 
 ### Installing required packages
 
-''' pipenv install beautifulsoup4
-'''
-''' pipenv install lxml '''
+<code> pipenv install beautifulsoup4</code>
+'''pipenv install lxml'''
